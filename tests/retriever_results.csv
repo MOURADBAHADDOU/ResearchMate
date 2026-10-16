@@ -1,0 +1,61 @@
+﻿question,k,precision_at_k,recall_at_k,mrr,ndcg_at_k,hit_rate_at_k
+What is the difference between a qualitative and a quantitative variable?,3,1.0,1.0,1.0,1.0,1.0
+What is the difference between a qualitative and a quantitative variable?,5,0.6,1.0,1.0,1.0,1.0
+What is the difference between a qualitative and a quantitative variable?,10,0.3,1.0,1.0,1.0,1.0
+"Explain the difference between the mean, the median, and the mode. When should I use each one?",3,0.6666666666666666,0.5,1.0,0.7039180890341347,1.0
+"Explain the difference between the mean, the median, and the mode. When should I use each one?",5,0.8,1.0,1.0,0.9047172294870751,1.0
+"Explain the difference between the mean, the median, and the mode. When should I use each one?",10,0.4,1.0,1.0,0.9047172294870751,1.0
+"What is a confidence interval, and how should I interpret it correctly?",3,1.0,0.6,1.0,1.0,1.0
+"What is a confidence interval, and how should I interpret it correctly?",5,1.0,1.0,1.0,1.0,1.0
+"What is a confidence interval, and how should I interpret it correctly?",10,0.5,1.0,1.0,1.0,1.0
+"What is a p-value, and why is it often misinterpreted?",3,1.0,0.75,1.0,1.0,1.0
+"What is a p-value, and why is it often misinterpreted?",5,0.8,1.0,1.0,1.0,1.0
+"What is a p-value, and why is it often misinterpreted?",10,0.4,1.0,1.0,1.0,1.0
+What is the difference between a Type I error and a Type II error?,3,0.6666666666666666,0.5,0.5,0.5307212739772434,1.0
+What is the difference between a Type I error and a Type II error?,5,0.8,1.0,0.5,0.7606395682357036,1.0
+What is the difference between a Type I error and a Type II error?,10,0.4,1.0,0.5,0.7606395682357036,1.0
+"What is correlation, and why does correlation not imply causation?",3,1.0,0.75,1.0,1.0,1.0
+"What is correlation, and why does correlation not imply causation?",5,0.8,1.0,1.0,0.9828920819566879,1.0
+"What is correlation, and why does correlation not imply causation?",10,0.4,1.0,1.0,0.9828920819566879,1.0
+What is the difference between supervised and unsupervised learning?,3,1.0,0.75,1.0,1.0,1.0
+What is the difference between supervised and unsupervised learning?,5,0.8,1.0,1.0,1.0,1.0
+What is the difference between supervised and unsupervised learning?,10,0.4,1.0,1.0,1.0,1.0
+Explain the bias-variance trade-off. Why does test error have a U-shape?,3,1.0,0.75,1.0,1.0,1.0
+Explain the bias-variance trade-off. Why does test error have a U-shape?,5,0.8,1.0,1.0,0.9828920819566879,1.0
+Explain the bias-variance trade-off. Why does test error have a U-shape?,10,0.4,1.0,1.0,0.9828920819566879,1.0
+"What is overfitting, and how can we prevent it?",3,0.6666666666666666,0.5,0.5,0.5307212739772434,1.0
+"What is overfitting, and how can we prevent it?",5,0.8,1.0,0.5,0.7606395682357036,1.0
+"What is overfitting, and how can we prevent it?",10,0.4,1.0,0.5,0.7606395682357036,1.0
+What is the difference between ridge regression and the lasso? When would I prefer one over the other?,3,1.0,0.75,1.0,1.0,1.0
+What is the difference between ridge regression and the lasso? When would I prefer one over the other?,5,0.8,1.0,1.0,0.9828920819566879,1.0
+What is the difference between ridge regression and the lasso? When would I prefer one over the other?,10,0.4,1.0,1.0,0.9828920819566879,1.0
+Explain how k-fold cross-validation works and why it is preferred over the validation set approach.,3,1.0,0.75,1.0,1.0,1.0
+Explain how k-fold cross-validation works and why it is preferred over the validation set approach.,5,0.8,1.0,1.0,1.0,1.0
+Explain how k-fold cross-validation works and why it is preferred over the validation set approach.,10,0.4,1.0,1.0,1.0,1.0
+"What is the difference between bagging, random forests, and boosting?",3,1.0,0.6,1.0,1.0,1.0
+"What is the difference between bagging, random forests, and boosting?",5,1.0,1.0,1.0,1.0,1.0
+"What is the difference between bagging, random forests, and boosting?",10,0.5,1.0,1.0,1.0,1.0
+"What is a neural network, and how does it differ from a linear regression model?",3,1.0,0.75,1.0,1.0,1.0
+"What is a neural network, and how does it differ from a linear regression model?",5,0.8,1.0,1.0,0.9828920819566879,1.0
+"What is a neural network, and how does it differ from a linear regression model?",10,0.4,1.0,1.0,0.9828920819566879,1.0
+Why do we need a non-linear activation function like ReLU or sigmoid?,3,1.0,0.6,1.0,1.0,1.0
+Why do we need a non-linear activation function like ReLU or sigmoid?,5,1.0,1.0,1.0,1.0,1.0
+Why do we need a non-linear activation function like ReLU or sigmoid?,10,0.5,1.0,1.0,1.0,1.0
+"What is backpropagation, and how does it work?",3,1.0,0.75,1.0,1.0,1.0
+"What is backpropagation, and how does it work?",5,0.8,1.0,1.0,1.0,1.0
+"What is backpropagation, and how does it work?",10,0.4,1.0,1.0,1.0,1.0
+What is the difference between a CNN and a regular fully-connected network? Why are CNNs better for images?,3,1.0,0.6,1.0,1.0,1.0
+What is the difference between a CNN and a regular fully-connected network? Why are CNNs better for images?,5,1.0,1.0,1.0,1.0,1.0
+What is the difference between a CNN and a regular fully-connected network? Why are CNNs better for images?,10,0.5,1.0,1.0,1.0,1.0
+"What is the vanishing gradient problem, and how do LSTMs or GRUs help solve it?",3,1.0,0.6,1.0,1.0,1.0
+"What is the vanishing gradient problem, and how do LSTMs or GRUs help solve it?",5,1.0,1.0,1.0,1.0,1.0
+"What is the vanishing gradient problem, and how do LSTMs or GRUs help solve it?",10,0.5,1.0,1.0,1.0,1.0
+Explain the attention mechanism and why it is useful for sequence-to-sequence tasks.,3,1.0,0.75,1.0,1.0,1.0
+Explain the attention mechanism and why it is useful for sequence-to-sequence tasks.,5,0.8,1.0,1.0,1.0,1.0
+Explain the attention mechanism and why it is useful for sequence-to-sequence tasks.,10,0.4,1.0,1.0,1.0,1.0
+What is the difference between a Transformer and an RNN? Why have Transformers become dominant?,3,1.0,0.75,1.0,1.0,1.0
+What is the difference between a Transformer and an RNN? Why have Transformers become dominant?,5,0.8,1.0,1.0,1.0,1.0
+What is the difference between a Transformer and an RNN? Why have Transformers become dominant?,10,0.4,1.0,1.0,1.0,1.0
+What is linear regression?,3,1.0,0.6,1.0,1.0,1.0
+What is linear regression?,5,1.0,1.0,1.0,1.0,1.0
+What is linear regression?,10,0.5,1.0,1.0,1.0,1.0

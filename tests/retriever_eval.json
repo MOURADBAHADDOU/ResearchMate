@@ -1,0 +1,187 @@
+[
+  {
+    "question": "What is the difference between a qualitative and a quantitative variable?",
+    "relevant_chunk_ids": [
+      "Statistics_p8_c1",
+      "Statistics_p8_c2",
+      "ML_p37_c2"
+    ]
+  },
+  {
+    "question": "Explain the difference between the mean, the median, and the mode. When should I use each one?",
+    "relevant_chunk_ids": [
+      "Statistics_p31_c2",
+      "Statistics_p30_c1",
+      "Statistics_p33_c2",
+      "Statistics_p34_c1"
+    ]
+  },
+  {
+    "question": "What is a confidence interval, and how should I interpret it correctly?",
+    "relevant_chunk_ids": [
+      "Statistics_p70_c1",
+      "DL_p1019_c1",
+      "Statistics_p69_c3",
+      "Statistics_p71_c1",
+      "DL_p1019_c2"
+    ]
+  },
+  {
+    "question": "What is a p-value, and why is it often misinterpreted?",
+    "relevant_chunk_ids": [
+      "Statistics_p111_c1",
+      "ML_p567_c3",
+      "ML_p86_c2",
+      "ML_p568_c4"
+    ]
+  },
+  {
+    "question": "What is the difference between a Type I error and a Type II error?",
+    "relevant_chunk_ids": [
+      "ML_p569_c2",
+      "Statistics_p125_c1",
+      "ML_p569_c1",
+      "Statistics_p124_c1"
+    ]
+  },
+  {
+    "question": "What is correlation, and why does correlation not imply causation?",
+    "relevant_chunk_ids": [
+      "Statistics_p159_c2",
+      "Statistics_p158_c1",
+      "Statistics_p159_c4",
+      "ML_p88_c4"
+    ]
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "relevant_chunk_ids": [
+      "ML_p509_c1",
+      "ML_p35_c2",
+      "ML_p510_c1",
+      "ML_p509_c2"
+    ]
+  },
+  {
+    "question": "Explain the bias-variance trade-off. Why does test error have a U-shape?",
+    "relevant_chunk_ids": [
+      "ML_p44_c2",
+      "DL_p1013_c2",
+      "ML_p44_c3",
+      "ML_p439_c3"
+    ]
+  },
+  {
+    "question": "What is overfitting, and how can we prevent it?",
+    "relevant_chunk_ids": [
+      "DL_p150_c4",
+      "DL_p189_c4",
+      "DL_p229_c2",
+      "DL_p153_c4"
+    ]
+  },
+  {
+    "question": "What is the difference between ridge regression and the lasso? When would I prefer one over the other?",
+    "relevant_chunk_ids": [
+      "ML_p252_c3",
+      "ML_p256_c2",
+      "ML_p256_c4",
+      "ML_p256_c3"
+    ]
+  },
+  {
+    "question": "Explain how k-fold cross-validation works and why it is preferred over the validation set approach.",
+    "relevant_chunk_ids": [
+      "ML_p217_c3",
+      "ML_p216_c3",
+      "ML_p247_c2",
+      "DL_p155_c1"
+    ]
+  },
+  {
+    "question": "What is the difference between bagging, random forests, and boosting?",
+    "relevant_chunk_ids": [
+      "ML_p354_c4",
+      "ML_p356_c1",
+      "ML_p350_c1",
+      "ML_p361_c1",
+      "ML_p367_c1"
+    ]
+  },
+  {
+    "question": "What is a neural network, and how does it differ from a linear regression model?",
+    "relevant_chunk_ids": [
+      "DL_p128_c3",
+      "DL_p120_c1",
+      "DL_p130_c1",
+      "DL_p165_c2"
+    ]
+  },
+  {
+    "question": "Why do we need a non-linear activation function like ReLU or sigmoid?",
+    "relevant_chunk_ids": [
+      "DL_p209_c2",
+      "ML_p408_c1",
+      "ML_p408_c2",
+      "DL_p208_c2",
+      "DL_p316_c2"
+    ]
+  },
+  {
+    "question": "What is backpropagation, and how does it work?",
+    "relevant_chunk_ids": [
+      "DL_p220_c1",
+      "DL_p405_c2",
+      "DL_p408_c3",
+      "DL_p411_c1"
+    ]
+  },
+  {
+    "question": "What is the difference between a CNN and a regular fully-connected network? Why are CNNs better for images?",
+    "relevant_chunk_ids": [
+      "DL_p309_c1",
+      "DL_p309_c3",
+      "DL_p706_c1",
+      "DL_p274_c2",
+      "DL_p275_c1"
+    ]
+  },
+  {
+    "question": "What is the vanishing gradient problem, and how do LSTMs or GRUs help solve it?",
+    "relevant_chunk_ids": [
+      "DL_p413_c1",
+      "DL_p399_c2",
+      "DL_p512_c1",
+      "DL_p223_c2",
+      "DL_p224_c1"
+    ]
+  },
+  {
+    "question": "Explain the attention mechanism and why it is useful for sequence-to-sequence tasks.",
+    "relevant_chunk_ids": [
+      "DL_p453_c1",
+      "DL_p465_c1",
+      "DL_p456_c1",
+      "DL_p470_c1"
+    ]
+  },
+  {
+    "question": "What is the difference between a Transformer and an RNN? Why have Transformers become dominant?",
+    "relevant_chunk_ids": [
+      "DL_p452_c4",
+      "DL_p484_c2",
+      "DL_p494_c2",
+      "DL_p368_c2"
+    ]
+  },
+  {
+    "question": "What is linear regression?",
+    "relevant_chunk_ids": [
+      "Statistics_p50_c1",
+      "DL_p121_c1",
+      "ML_p79_c3",
+      "ML_p78_c1",
+      "DL_p123_c1"
+    ]
+  }
+]
