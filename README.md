@@ -163,11 +163,11 @@ Retrieval performance should be assessed using appropriate metrics, such as Prec
 
 ## Author
 
-**YOUR NAME**
+**Mourad BAHADDOU**
 
 Data Science Engineering Student
 
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/MOURADBAHADDOU)
 
 ---
 
